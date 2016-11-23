@@ -8,7 +8,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		global.json = global.json
 	EndProjectSection
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "StringUtils", "src\StringUtils\StringUtils.xproj", "{64C53146-5818-4F89-A529-E24D1D5B6CDD}"
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Panic.StringUtils", "src\Panic.StringUtils\Panic.StringUtils.xproj", "{64C53146-5818-4F89-A529-E24D1D5B6CDD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

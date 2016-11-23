@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace StringUtils.Extensions
+namespace Panic.StringUtils.Extensions
 {
     public static class StringExtensions
     {
