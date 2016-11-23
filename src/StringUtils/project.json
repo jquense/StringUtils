@@ -1,0 +1,19 @@
+﻿{
+  "version": "1.0.0",
+  "packOptions": {
+    "authors": [
+      "Jason Quense"
+    ],
+
+    "licenseUrl": "https://github.com/jquense/StringUtils/blob/master/LICENSE.txt"
+  },
+
+  "frameworks": {
+    "netstandard1.6": {
+      "dependencies": {
+        "NETStandard.Library": "1.6.0"
+      }
+    },
+    "net45": {}
+  }
+}
